@@ -110,6 +110,13 @@ body{
     color: white;
     margin: 0 5px 0 5px;
 }
+.btn btn-danger btn-lg active{
+    float: right;
+    text-align: center;
+    margin: auto;
+    position: fixed;
+    display: flex;
+}
 
 /* a:link, a:visited {
     background-color: #f44336;
